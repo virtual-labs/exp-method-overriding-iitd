@@ -80,38 +80,37 @@
 
   const myQuestions = [
     {
-      question: "Q1. What is the output of the following program?",
+      question: "Q1. Which method can not be override in java___?",
        
 
       answers: {
-        a: " Derived class",
-        b: " Test class",
-        c: "Runtime error",
-        d: "Compilation error"
+        a: "private",
+        b: "final",
+        c: "protected",
+        d: "static"
       },
       correctAnswer: "d"
     },
 
     {
-      question: "Q2. What is the output of the following program?",
+      question: "Q2. Overriding is based on_____.",
 
       answers: {
-        a: " Test class",
-        b: " Compilation error due to line xyz",
-        c: " Derived class",
-        d: " Compilation error due to access modifier"
+        a: " Methods",
+        b: " Constructor overloading",
+        c: " Compile time Polymorphism",
+        d: " run-time Polymorphism"
       },
       correctAnswer: "d"
     },
 
     {
-      question: "Q3. What is the output of the following program?",
+      question: "Q3. Method Overriding shows static polymorphism?",
 
       answers: {
-        a: "Test class Derived class",
-        b: " Derived class Test class",
-        c: " Compilation error",
-        d: " Runtime error"        
+        a: "False",
+        b: "True"
+               
       },
       correctAnswer: "a"
     },
@@ -128,13 +127,12 @@
     },
 	
 	{
-      question: "Q5. In below java code, whose “Car” will be called?",
+      question: "Q5. Can we override a private method in Java?",
       
       answers: {
-        a: "Father’s Car",
-        b: "Son’s Car",
-        c: "There is an ambiguity, so no one Car",
-        d: "Compiler Error"
+        a: "No",
+        b: "Yes"
+      
       },
       correctAnswer: "b"
     },
