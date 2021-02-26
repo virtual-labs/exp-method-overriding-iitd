@@ -31,6 +31,8 @@ System.out.println("ICICI Rate of Interest: "+i.getRateOfInterest());
 System.out.println("AXIS Rate of Interest: "+a.getRateOfInterest());}}  
 
 ```
+
+
 ```sh
 Output:
 SBI Rate of Interest: 8
