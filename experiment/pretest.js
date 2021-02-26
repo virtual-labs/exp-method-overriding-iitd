@@ -94,8 +94,8 @@
       question: "Q2. Which of these keywords can be used to prevent Method overriding?",
       answers: {
         a: " static",
-        b: " constant"
-        c: " protected"
+        b: " constant",
+        c: " protected",
         d: " final"
 
       },
@@ -128,8 +128,8 @@
       question: "Q5. Run time polymorphism is also known as",
       answers: {
         a: "Method Overriding",
-        b: "Method Overloading"
-        c: "Method Rewriting"
+        b: "Method Overloading",
+        c: "Method Rewriting",
         d: "None of these"
 
       },
