@@ -109,8 +109,8 @@
 
       answers: {
         a: "Test class Derived class",
-        b: " Derived class Test class"
-        c: " Compilation error"
+        b: " Derived class Test class",
+        c: " Compilation error",
         d: " Runtime error"        
       },
       correctAnswer: "a"
@@ -120,20 +120,20 @@
       question: "Q4. Which polymorphism concept is applied to inheritance relationship in java programming?",
       answers: {
         a: " Method overloading",
-        b: " Constructor overloading"
-        c: "  Method overriding"
+        b: " Constructor overloading",
+        c: "  Method overriding",
         d: " None "        
       },
       correctAnswer: "c"
     },
 	
 	{
-      question: "Q5. In below java code, whose ìCarî will be called?",
+      question: "Q5. In below java code, whose ‚ÄúCar‚Äù will be called?",
       
       answers: {
-        a: "Fatherís Car",
-        b: "Sonís Car",
-        c: "There is an ambiguity, so no one Car,"
+        a: "Father‚Äôs Car",
+        b: "Son‚Äôs Car",
+        c: "There is an ambiguity, so no one Car",
         d: "Compiler Error"
       },
       correctAnswer: "b"
