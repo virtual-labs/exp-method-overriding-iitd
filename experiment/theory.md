@@ -1,10 +1,14 @@
-## Method Overriding in Java
-If subclass (child class) has the same method as declared in the parent class, it is known as **method overriding in Java.** In other words, If a subclass provides the specific implementation of the method that has been declared by one of its parent class, it is known as method overriding.
-#### Rules for Java Method Overriding
-1.	The method must have the same name as in the parent class
-2.	The method must have the same parameter as in the parent class.
-3.	There must be an IS-A relationship (inheritance).
-#### A real example of Java Method Overriding
+### Method Overriding in Java
+
+If subclass (child class) has the same method as declared in the parent class, it is known as **method overriding in Java.** In other words, If a subclass provides the specific implementation of the method that has been declared by one of its parent class, it is known as **method overriding**.
+
+### Rules for Java Method Overriding
+-	The method must have the same name as in the parent class
+-	The method must have the same parameter as in the parent class.
+-	There must be an IS-A relationship (inheritance).
+	
+### A real example of Java Method Overriding
+
 Consider a scenario where Bank is a class that provides functionality to get the rate of interest. However, the rate of interest varies according to banks. For example, SBI, ICICI and AXIS banks could provide 8%, 7%, and 9% rate of interest.
 ```sh
 	class Bank{  
