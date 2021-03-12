@@ -125,7 +125,7 @@
     },
 	
 	{
-      question: "Q5. Run time polymorphism is also known as",
+      question: "Q5. Run time polymorphism is also known as _____.",
       answers: {
         a: "Method Overriding",
         b: "Method Overloading",
