@@ -1,1 +1,42 @@
-[{"question":"Q1. Which method can not be override in java___?","answers":{"a":"private","b":"final","c":"protected","d":"static"},"correctAnswer":"d"},{"question":"Q2. Overriding is based on_____.","answers":{"a":" Methods","b":" Constructor overloading","c":" Compile time Polymorphism","d":" run-time Polymorphism"},"correctAnswer":"d"},{"question":"Q3. Method Overriding shows static polymorphism?","answers":{"a":"False","b":"True"},"correctAnswer":"a"},{"question":"Q4. Which polymorphism concept is applied to inheritance relationship in java programming?","answers":{"a":" Method overloading","b":" Constructor overloading","c":"  Method overriding","d":" None "},"correctAnswer":"c"},{"question":"Q5. Can we override a private method in Java?","answers":{"a":"No","b":"Yes"},"correctAnswer":"b"}]
+[{
+	"question": "Q1. Which method can not be override in java___?",
+	"answers": {
+		"a": "private",
+		"b": "final",
+		"c": "protected",
+		"d": "static"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q2. Overriding is based on_____.",
+	"answers": {
+		"a": " Methods",
+		"b": " Constructor overloading",
+		"c": " Compile time Polymorphism",
+		"d": " run-time Polymorphism"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "Q3. Method Overriding shows static polymorphism?",
+	"answers": {
+		"a": "False",
+		"b": "True"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "Q4. Which polymorphism concept is applied to inheritance relationship in java programming?",
+	"answers": {
+		"a": " Method overloading",
+		"b": " Constructor overloading",
+		"c": "  Method overriding",
+		"d": " None "
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Q5. Can we override a private method in Java?",
+	"answers": {
+		"a": "No",
+		"b": "Yes"
+	},
+	"correctAnswer": "b"
+}]
